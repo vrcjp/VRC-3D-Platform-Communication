@@ -1,4 +1,4 @@
-# VRCSDK(Unity) for Entertainment
+# VRCSDK(Unity) for Communication
 ![](https://github.com/vrcjp/VRC-3D-Platform/blob/main/offline.png)
 
 ## Overview
@@ -34,10 +34,10 @@ public static void Initialize(string localStorage, bool useDataFactory = true)
 ## SDK Info
 
 ### Assembly
-`VRCSDK.Platform.Entertainment.dll`
+`VRCSDK.Platform.Communication.dll`
 
 ### Namespace
-`Vrc.Platform.Entertainment.Offline`
+`Vrc.Platform.Communication.Offline`
 
 ### Class
 `OfflineClient`
